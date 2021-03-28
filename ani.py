@@ -6,4 +6,6 @@ if add == "add":
 elif add == "sub":
     number = int(input("Enter Number:"))
     number2 = int(input("Enter Number:"))
-    print(number - number2)
+    print(number - number2) 
+    print("Hello World")
+    
